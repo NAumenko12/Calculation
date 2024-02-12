@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Function", "Function\Function.csproj", "{4277AB41-1399-4AA3-B8BB-0000BA20875C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculat", "Calculat\Calculat.csproj", "{EA72AF64-6B30-4042-A45A-25735FA8A77D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4277AB41-1399-4AA3-B8BB-0000BA20875C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4277AB41-1399-4AA3-B8BB-0000BA20875C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4277AB41-1399-4AA3-B8BB-0000BA20875C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4277AB41-1399-4AA3-B8BB-0000BA20875C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA72AF64-6B30-4042-A45A-25735FA8A77D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA72AF64-6B30-4042-A45A-25735FA8A77D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA72AF64-6B30-4042-A45A-25735FA8A77D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA72AF64-6B30-4042-A45A-25735FA8A77D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07106FDD-77E5-428D-9841-189F5517C1C7}
+	EndGlobalSection
+EndGlobal
